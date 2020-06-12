@@ -2,3 +2,16 @@ server:
   port: 8888
   servlet:
     context-path: /xxx
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*" #开启所有监控终端
+        exclude: env,info  #排除env ,info 终端
+  server:
+    port: 9999 #监控端口
+    servlet:
+      context-path: /ppp #监控上下文
+
