@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="02-customconfig" />
+        <module name="02-multienv" />
+        <module name="02-multienv2" />
         <module name="spring01" />
         <module name="spring02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="02-customconfig" target="1.8" />
+      <module name="02-multienv" target="1.8" />
+      <module name="02-multienv2" target="1.8" />
       <module name="spring01" target="1.8" />
       <module name="spring02" target="1.8" />
     </bytecodeTargetLevel>

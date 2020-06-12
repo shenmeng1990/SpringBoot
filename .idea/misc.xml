@@ -8,6 +8,9 @@
       <list>
         <option value="$PROJECT_DIR$/spring01/pom.xml" />
         <option value="$PROJECT_DIR$/spring02/pom.xml" />
+        <option value="$PROJECT_DIR$/02-multienv/pom.xml" />
+        <option value="$PROJECT_DIR$/02-multienv2/pom.xml" />
+        <option value="$PROJECT_DIR$/02-customconfig/pom.xml" />
       </list>
     </option>
   </component>

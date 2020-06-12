@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "country",
+      "type": "com.alibaba.dto.Country",
+      "sourceType": "com.alibaba.dto.Country"
+    },
+    {
+      "name": "student",
+      "type": "com.alibaba.dto.Student",
+      "sourceType": "com.alibaba.dto.Student"
+    }
+  ],
+  "properties": [
+    {
+      "name": "country.cities",
+      "type": "java.lang.String[]",
+      "sourceType": "com.alibaba.dto.Country"
+    },
+    {
+      "name": "student.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.alibaba.dto.Student"
+    },
+    {
+      "name": "student.name",
+      "type": "java.lang.String",
+      "sourceType": "com.alibaba.dto.Student"
+    },
+    {
+      "name": "student.score",
+      "type": "java.lang.Double",
+      "sourceType": "com.alibaba.dto.Student"
+    }
+  ],
+  "hints": []
+}

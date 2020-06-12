@@ -1,5 +1,8 @@
 package com.alibaba.Controller;
 
+import com.alibaba.dto.Country;
+import com.alibaba.dto.Student;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -19,6 +22,12 @@ public class IndexController {
     @Value("${student.name}")
     private String name;
 
+    @Autowired
+    private Student student;
+
+    @Autowired
+    private Country country;
+
     @GetMapping("/port")
     public String portHandle(){
         return "配置端口号为："+port;
@@ -27,6 +36,16 @@ public class IndexController {
     @GetMapping("/name")
     public String nameHandle(){
         return name;
+    }
+
+    @GetMapping("/stu")
+    public Object stuHandle(){
+        return student;
+    }
+
+    @GetMapping("/country")
+    public Object countryHandle(){
+        return country;
     }
 
 }

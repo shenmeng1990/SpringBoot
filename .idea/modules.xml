@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-customconfig/02-customconfig.iml" filepath="$PROJECT_DIR$/02-customconfig/02-customconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-multienv/02-multienv.iml" filepath="$PROJECT_DIR$/02-multienv/02-multienv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-multienv2/02-multienv2.iml" filepath="$PROJECT_DIR$/02-multienv2/02-multienv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring01/spring01.iml" filepath="$PROJECT_DIR$/spring01/spring01.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring02/spring02.iml" filepath="$PROJECT_DIR$/spring02/spring02.iml" />
     </modules>

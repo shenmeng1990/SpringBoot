@@ -1,0 +1,20 @@
+spring:
+  profiles:
+    active: pro
+
+---
+#---分隔符相当于分成多个配置文件
+spring:
+  profiles: dev
+server:
+  port: 8888
+  servlet:
+    context-path: /dev
+
+---
+spring:
+  profiles: pro
+server:
+  port: 9999
+  servlet:
+    context-path: /pro
