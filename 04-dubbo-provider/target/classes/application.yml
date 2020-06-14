@@ -1,0 +1,48 @@
+server:
+  port: 8081
+spring:
+  application:
+      name: 04-dubbo-provider
+  dubbo:
+    registry: zookeeper://zkos:2181
+    # registry: zookeeper://zkOS1:2181?backup=zkOS2:2181,zkOS3:2181
+
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    #本地连接
+    #url: jdbc:mysql://localhost:3306/springboot?serverTimezone=UTC&useSSL=true
+    #连接虚拟的mysql
+    url: jdbc:mysql://centos:33306/springboot?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  # 连接单机Redis 虚机redis的docker容器
+  redis:
+    host: centos
+    port: 16379
+    password: root
+
+    # 连接Redis高可用集群
+        # sentinel:
+          # master: mymaster
+          # nodes: sentinel1:6379,sentinel2:6379,sentinel3:6379
+  cache:
+    # 指定当前应用所使用的缓存类型
+    type: redis
+    # 指定当前应用所使用的缓存区域名称
+    cache-names: realTimeCache
+
+
+#mybatis 配置文件
+mybatis:
+  mapper-locations: classpath:com/alibaba/dao/*.xml
+  type-aliases-package: com.alibaba.model
+
+
+#日志配置
+logging:
+  pattern:
+    console: level-%-5level - %msg%n
+  level:
+    #root: warn
+    com.alibaba.dao: debug

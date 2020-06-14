@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/04-dubbo-common" />
     <file type="web" url="file://$PROJECT_DIR$/spring02" />
   </component>
   <component name="MavenProjectsManager">
@@ -12,6 +13,9 @@
         <option value="$PROJECT_DIR$/02-multienv2/pom.xml" />
         <option value="$PROJECT_DIR$/02-customconfig/pom.xml" />
         <option value="$PROJECT_DIR$/03-ssrm-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/04-dubbo-common/pom.xml" />
+        <option value="$PROJECT_DIR$/04-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/04-dubbo-consumer/pom.xml" />
       </list>
     </option>
   </component>

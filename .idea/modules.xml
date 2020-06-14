@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/02-multienv/02-multienv.iml" filepath="$PROJECT_DIR$/02-multienv/02-multienv.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-multienv2/02-multienv2.iml" filepath="$PROJECT_DIR$/02-multienv2/02-multienv2.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-ssrm-jsp/03-ssrm-jsp.iml" filepath="$PROJECT_DIR$/03-ssrm-jsp/03-ssrm-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-dubbo-common/04-dubbo-common.iml" filepath="$PROJECT_DIR$/04-dubbo-common/04-dubbo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-dubbo-consumer/04-dubbo-consumer.iml" filepath="$PROJECT_DIR$/04-dubbo-consumer/04-dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-dubbo-provider/04-dubbo-provider.iml" filepath="$PROJECT_DIR$/04-dubbo-provider/04-dubbo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring01/spring01.iml" filepath="$PROJECT_DIR$/spring01/spring01.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring02/spring02.iml" filepath="$PROJECT_DIR$/spring02/spring02.iml" />
     </modules>

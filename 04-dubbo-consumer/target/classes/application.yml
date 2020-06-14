@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: 04-dubbo-consumer
+  dubbo:
+    registry: zookeeper://zkos:2181
+  mvc:
+    view:
+      prefix: /jsp/
+      suffix: .jsp

@@ -49,6 +49,7 @@ public class StudentServiceImpl implements StudentService {
     //    其解决方案是，双重检测锁机制
 
     // 这里要使用双重检测锁机制解决当前代码中可能会存在的热点缓存问题
+    // 不存在线程安全问题
     @Override
     public Integer findNumber() {
         // 获取Redis操作对象

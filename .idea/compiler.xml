@@ -10,6 +10,10 @@
         <module name="02-multienv" />
         <module name="02-multienv2" />
         <module name="03-ssrm-jsp" />
+        <module name="03-ssrm-jsp (1)" />
+        <module name="04-dubbo-common" />
+        <module name="04-dubbo-consumer" />
+        <module name="04-dubbo-provider" />
         <module name="spring01" />
         <module name="spring02" />
       </profile>
@@ -19,6 +23,9 @@
       <module name="02-multienv" target="1.8" />
       <module name="02-multienv2" target="1.8" />
       <module name="03-ssrm-jsp" target="1.8" />
+      <module name="04-dubbo-common" target="1.8" />
+      <module name="04-dubbo-consumer" target="1.8" />
+      <module name="04-dubbo-provider" target="1.8" />
       <module name="spring01" target="1.8" />
       <module name="spring02" target="1.8" />
     </bytecodeTargetLevel>
