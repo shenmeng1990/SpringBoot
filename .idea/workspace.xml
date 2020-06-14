@@ -4,40 +4,9 @@
     <list default="true" id="1b640159-b315-4070-b354-7260c84c770b" name="Default Changelist" comment="springboot">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/02-customconfig/target/classes/META-INF/spring-configuration-metadata.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-customconfig/target/classes/com/alibaba/Application.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-customconfig/target/classes/com/alibaba/Controller/IndexController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-customconfig/target/classes/com/alibaba/dto/Country.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-customconfig/target/classes/com/alibaba/dto/Depart.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-customconfig/target/classes/com/alibaba/dto/School.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-customconfig/target/classes/com/alibaba/dto/Student.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-customconfig/target/test-classes/com/alibaba/ApplicationTests.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv/target/classes/com/alibaba/Application.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv/target/classes/com/alibaba/Service/ISomeService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv/target/classes/com/alibaba/Service/Impl/DevSomeService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv/target/classes/com/alibaba/Service/Impl/ProSomeService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv/target/classes/com/alibaba/controller/IndexController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv/target/test-classes/com/alibaba/ApplicationTests.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv2/target/classes/com/alibaba/Application.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv2/target/classes/com/alibaba/Service/ISomeService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv2/target/classes/com/alibaba/Service/Impl/DevSomeService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv2/target/classes/com/alibaba/Service/Impl/ProSomeService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv2/target/classes/com/alibaba/controller/IndexController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/02-multienv2/target/test-classes/com/alibaba/ApplicationTests.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/src/main/java/com/alibaba/service/impl/StudentServiceImpl.java" afterPath="$PROJECT_DIR$/03-ssrm-jsp/src/main/java/com/alibaba/service/impl/StudentServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/target/classes/com/alibaba/Application.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/target/classes/com/alibaba/controller/StuController.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/target/classes/com/alibaba/dao/StudentDao.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/target/classes/com/alibaba/model/Student.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/target/classes/com/alibaba/service/StudentService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/target/classes/com/alibaba/service/impl/StudentServiceImpl.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/target/test-classes/com/alibaba/ApplicationTests.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/spring02/target/classes/com/alibaba/spring02/ServletInitializer.class" afterPath="$PROJECT_DIR$/spring02/target/classes/com/alibaba/spring02/ServletInitializer.class" />
-      <change beforePath="$PROJECT_DIR$/spring02/target/classes/com/alibaba/spring02/Spring02Application.class" afterPath="$PROJECT_DIR$/spring02/target/classes/com/alibaba/spring02/Spring02Application.class" />
     </list>
     <ignored path="$PROJECT_DIR$/spring01/target/" />
     <ignored path="$PROJECT_DIR$/spring02/target/" />
@@ -49,6 +18,7 @@
     <ignored path="$PROJECT_DIR$/05-dubbo-common/target/" />
     <ignored path="$PROJECT_DIR$/04-dubbo-provider/target/" />
     <ignored path="$PROJECT_DIR$/04-dubbo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/05-interceptor/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,16 +56,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-dubbo-provider/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1680">
-              <caret line="48" column="21" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="48" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-dubbo-provider/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,41 +66,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudentDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-dubbo-provider/src/main/java/com/alibaba/dao/StudentDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProviderApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-dubbo-provider/src/main/java/com/alibaba/ProviderApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1295">
-              <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+            <state relative-caret-position="315">
+              <caret line="54" column="21" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="54" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-dubbo-common/pom.xml">
+        <entry file="file://$PROJECT_DIR$/05-interceptor/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="280">
+              <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -162,17 +102,57 @@
         <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="student" pinned="false" current-in-tab="true">
-        <entry file="das://table:/d195a5a0/fc914ca5-449e-4e8c-ae76-46a0d1deaad1/springboot.student">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
+      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomInterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/interceptor/CustomInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomWebMvcConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/config/CustomWebMvcConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterceptorApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/InterceptorApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,7 +161,7 @@
         <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/src/main/java/com/alibaba/controller/StuController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="370">
-              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+              <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -195,8 +175,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -217,10 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring02/src/main/java/com/alibaba/spring02/controller/IndexController.java" />
-        <option value="$PROJECT_DIR$/spring01/pom.xml" />
-        <option value="$PROJECT_DIR$/spring01/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring01/src/main/resources/public/error/500.html" />
         <option value="$PROJECT_DIR$/spring01/src/main/resources/public/error/404.html" />
         <option value="$PROJECT_DIR$/spring01/src/main/java/com/alibaba/spring01/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/spring01/src/main/java/com/alibaba/spring01/Service/IndexService.java" />
@@ -266,6 +242,12 @@
         <option value="$PROJECT_DIR$/04-dubbo-consumer/src/main/java/com/alibaba/controller/StuController.java" />
         <option value="$PROJECT_DIR$/04-dubbo-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/04-dubbo-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/IndexController.java" />
+        <option value="$PROJECT_DIR$/05-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/interceptor/CustomInterceptor.java" />
+        <option value="$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/config/CustomWebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/InterceptorApplication.java" />
+        <option value="$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/controller/IndexController.java" />
       </list>
     </option>
   </component>
@@ -498,33 +480,33 @@
           <expand>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="04-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="05-interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05-interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="05-interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="05-interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="05-interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -532,7 +514,16 @@
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="05-interceptor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05-interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -541,32 +532,12 @@
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="05-interceptor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-provider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="04-dubbo-provider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -628,22 +599,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConsumerApplication">
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.InterceptorApplication">
+    <configuration name="InterceptorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.alibaba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.Application" />
-      <module name="02-multienv" />
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.InterceptorApplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="05-interceptor" />
       <envs />
     </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="PATTERN" value="com.alibaba.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -654,7 +633,7 @@
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="PATTERN" value="com.alibaba.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -665,7 +644,7 @@
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="PATTERN" value="com.alibaba.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -676,7 +655,7 @@
     <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.alibaba.*" />
+          <option name="PATTERN" value="com.alibaba.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -705,20 +684,20 @@
     <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.Spring01Application" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.Spring02Application" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
-      <item index="5" class="java.lang.String" itemvalue="Spring Boot.Application (3)" />
-      <item index="6" class="java.lang.String" itemvalue="Spring Boot.ProviderApplication" />
-      <item index="7" class="java.lang.String" itemvalue="Spring Boot.ConsumerApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.Application (3)" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.ProviderApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.ConsumerApplication" />
+      <item index="7" class="java.lang.String" itemvalue="Application.InterceptorApplication" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.ConsumerApplication" />
-        <item index="1" class="java.lang.String" itemvalue="Spring Boot.Application (3)" />
-        <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Spring Boot.Application" />
+        <item index="0" class="java.lang.String" itemvalue="Application.InterceptorApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.ConsumerApplication" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.Application (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Spring Boot.Application (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Spring Boot.Application (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -741,7 +720,7 @@
       <workItem from="1591931256847" duration="7265000" />
       <workItem from="1591946775358" duration="308000" />
       <workItem from="1591947131646" duration="8809000" />
-      <workItem from="1592099664433" duration="17507000" />
+      <workItem from="1592099664433" duration="18814000" />
     </task>
     <task id="LOCAL-00001" summary="springboot">
       <created>1591792343753</created>
@@ -773,7 +752,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42522000" />
+    <option name="totallyTimeSpent" value="43829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -791,17 +770,17 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5238678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.49784017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26927784" sideWeight="0.49784017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25701943" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29913607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33292535" sideWeight="0.49784017" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2766218" sideWeight="0.49784017" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -833,60 +812,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02-multienv/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-multienv/src/main/java/com/alibaba/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-multienv2/src/main/java/com/alibaba/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-multienv2/src/main/java/com/alibaba/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-multienv2/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-customconfig/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.7.RELEASE/spring-context-5.2.7.RELEASE.jar!/org/springframework/context/annotation/PropertySource.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.1.RELEASE/spring-boot-2.3.1.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
@@ -1169,7 +1094,7 @@
         <state relative-caret-position="-1351">
           <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1232,29 +1157,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1295">
-          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/src/main/java/com/alibaba/controller/StuController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1262,6 +1171,87 @@
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="54" column="21" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="54" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interceptor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.7.RELEASE/spring-webmvc-5.2.7.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.7.RELEASE/spring-webmvc-5.2.7.RELEASE.jar!/org/springframework/web/servlet/config/annotation/InterceptorRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="26" column="68" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/InterceptorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/interceptor/CustomInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-interceptor/src/main/java/com/alibaba/config/CustomWebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
