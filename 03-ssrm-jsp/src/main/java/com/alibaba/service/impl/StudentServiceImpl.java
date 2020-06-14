@@ -20,4 +20,14 @@ public class StudentServiceImpl implements StudentService {
     public void saveStudent(Student student) {
         studentDao.insertStudent(student);
     }
+
+    @Override
+    public Student findById(int id) {
+        return studentDao.selectById(id);
+    }
+
+    @Override
+    public Integer findNumber() {
+        return studentDao.count();
+    }
 }

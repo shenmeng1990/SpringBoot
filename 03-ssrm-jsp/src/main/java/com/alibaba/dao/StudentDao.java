@@ -12,4 +12,7 @@ public interface StudentDao {
 
     void insertStudent(Student student);
 
+    Student selectById(int id);
+
+    Integer count();
 }

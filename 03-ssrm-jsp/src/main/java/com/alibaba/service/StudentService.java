@@ -7,4 +7,8 @@ import com.alibaba.model.Student; /**
 public interface StudentService {
 
     void saveStudent(Student student);
+
+    Student findById(int id);
+
+    Integer findNumber();
 }
