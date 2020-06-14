@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/04-dubbo-consumer/04-dubbo-consumer.iml" filepath="$PROJECT_DIR$/04-dubbo-consumer/04-dubbo-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-dubbo-provider/04-dubbo-provider.iml" filepath="$PROJECT_DIR$/04-dubbo-provider/04-dubbo-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-interceptor/05-interceptor.iml" filepath="$PROJECT_DIR$/05-interceptor/05-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-servlet2/06-servlet2.iml" filepath="$PROJECT_DIR$/06-servlet2/06-servlet2.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-servlet3/06-servlet3.iml" filepath="$PROJECT_DIR$/06-servlet3/06-servlet3.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring01/spring01.iml" filepath="$PROJECT_DIR$/spring01/spring01.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring02/spring02.iml" filepath="$PROJECT_DIR$/spring02/spring02.iml" />
