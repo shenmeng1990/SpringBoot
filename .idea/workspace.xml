@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b640159-b315-4070-b354-7260c84c770b" name="Default Changelist" comment="springboot">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/02-customconfig/02-customconfig.iml" afterPath="$PROJECT_DIR$/02-customconfig/02-customconfig.iml" />
+      <change beforePath="$PROJECT_DIR$/02-multienv/02-multienv.iml" afterPath="$PROJECT_DIR$/02-multienv/02-multienv.iml" />
+      <change beforePath="$PROJECT_DIR$/02-multienv2/02-multienv2.iml" afterPath="$PROJECT_DIR$/02-multienv2/02-multienv2.iml" />
+      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/03-ssrm-jsp.iml" afterPath="$PROJECT_DIR$/03-ssrm-jsp/03-ssrm-jsp.iml" />
+      <change beforePath="$PROJECT_DIR$/04-dubbo-common/04-dubbo-common.iml" afterPath="$PROJECT_DIR$/04-dubbo-common/04-dubbo-common.iml" />
+      <change beforePath="$PROJECT_DIR$/04-dubbo-consumer/04-dubbo-consumer.iml" afterPath="$PROJECT_DIR$/04-dubbo-consumer/04-dubbo-consumer.iml" />
+      <change beforePath="$PROJECT_DIR$/04-dubbo-provider/04-dubbo-provider.iml" afterPath="$PROJECT_DIR$/04-dubbo-provider/04-dubbo-provider.iml" />
+      <change beforePath="$PROJECT_DIR$/05-interceptor/05-interceptor.iml" afterPath="$PROJECT_DIR$/05-interceptor/05-interceptor.iml" />
+      <change beforePath="$PROJECT_DIR$/06-servlet2/06-servlet2.iml" afterPath="$PROJECT_DIR$/06-servlet2/06-servlet2.iml" />
+      <change beforePath="$PROJECT_DIR$/06-servlet3/06-servlet3.iml" afterPath="$PROJECT_DIR$/06-servlet3/06-servlet3.iml" />
+      <change beforePath="$PROJECT_DIR$/07-thymeleaf/07-thymeleaf.iml" afterPath="$PROJECT_DIR$/07-thymeleaf/07-thymeleaf.iml" />
+      <change beforePath="$PROJECT_DIR$/07-thymeleaf/pom.xml" afterPath="$PROJECT_DIR$/07-thymeleaf/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java" afterPath="$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java" />
+      <change beforePath="$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html" afterPath="$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html" />
+      <change beforePath="$PROJECT_DIR$/spring01/spring01.iml" afterPath="$PROJECT_DIR$/spring01/spring01.iml" />
+      <change beforePath="$PROJECT_DIR$/spring02/spring02.iml" afterPath="$PROJECT_DIR$/spring02/spring02.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/spring01/target/" />
     <ignored path="$PROJECT_DIR$/spring02/target/" />
@@ -62,7 +74,7 @@
       <file leaf-file-name="IndexServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-servlet3/src/main/java/com/alibaba/servlet/IndexServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="280">
               <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -74,7 +86,7 @@
       <file leaf-file-name="IndexServletApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-servlet3/src/main/java/com/alibaba/IndexServletApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
+            <state relative-caret-position="385">
               <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#349#350#0" expanded="true" />
@@ -87,7 +99,7 @@
       <file leaf-file-name="FilterConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-servlet2/src/main/java/com/alibaba/config/FilterConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="595">
               <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -99,18 +111,18 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07-thymeleaf/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-420">
-              <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="350">
+              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="370">
+              <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,12 +143,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="265">
+              <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/model/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,7 +168,7 @@
       <file leaf-file-name="IndexFilter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/06-servlet2/src/main/java/com/alibaba/filter/IndexFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-175">
+            <state relative-caret-position="245">
               <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding />
             </state>
@@ -161,26 +185,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexFilter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06-servlet3/src/main/java/com/alibaba/filter/IndexFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-105">
-              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -201,7 +213,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02-multienv/src/main/java/com/alibaba/Service/Impl/ProSomeService.java" />
         <option value="$PROJECT_DIR$/02-multienv/src/main/java/com/alibaba/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/02-multienv2/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/02-customconfig/src/main/resources/application.yml" />
@@ -250,6 +261,7 @@
         <option value="$PROJECT_DIR$/06-servlet2/src/main/java/com/alibaba/filter/IndexFilter.java" />
         <option value="$PROJECT_DIR$/06-servlet2/src/main/java/com/alibaba/config/FilterConfig.java" />
         <option value="$PROJECT_DIR$/07-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/model/Student.java" />
         <option value="$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html" />
       </list>
@@ -267,11 +279,6 @@
         <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
         <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
       </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -483,7 +490,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -531,6 +537,15 @@
               <item name="07-thymeleaf" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="07-thymeleaf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -547,6 +562,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -564,7 +580,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -739,7 +755,8 @@
       <workItem from="1591931256847" duration="7265000" />
       <workItem from="1591946775358" duration="308000" />
       <workItem from="1591947131646" duration="8809000" />
-      <workItem from="1592099664433" duration="22011000" />
+      <workItem from="1592099664433" duration="22656000" />
+      <workItem from="1592190431960" duration="3852000" />
     </task>
     <task id="LOCAL-00001" summary="springboot">
       <created>1591792343753</created>
@@ -771,10 +788,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47026000" />
+    <option name="totallyTimeSpent" value="51523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -788,17 +806,17 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5238678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.024479805" sideWeight="0.49784017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10526316" sideWeight="0.49784017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2413607" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24568035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6707466" sideWeight="0.49784017" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21787025" sideWeight="0.49784017" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -830,21 +848,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-ssrm-jsp/src/main/java/com/alibaba/service/StudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-ssrm-jsp/src/main/java/com/alibaba/dao/StudentDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
           <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,12 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="586">
           <caret line="38" column="32" lean-forward="false" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#970#971#0" expanded="false" />
-            <element signature="e#1020#1021#0" expanded="false" />
-            <element signature="e#1149#1150#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -873,11 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <marker date="1592106517479" expanded="true" signature="239:293" ph="insert into student... " />
-            <marker date="1592106517479" expanded="true" signature="367:405" ph="select * fro... student" />
-            <marker date="1592106517479" expanded="true" signature="470:498" ph="select count... student" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,7 +880,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -925,9 +919,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -935,31 +926,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-192">
           <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#936#937#0" expanded="false" />
-            <element signature="e#985#986#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05-dubbo-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/05-dubbo-common/pom.xml" />
     <entry file="file://$PROJECT_DIR$/04-dubbo-provider/src/main/java/com/alibaba/dao/StudentDao.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1592106517479" expanded="true" signature="239:293" ph="insert into student... " />
-            <marker date="1592106517479" expanded="true" signature="367:405" ph="select * fro... student" />
-            <marker date="1592106517479" expanded="true" signature="470:498" ph="select count... student" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -967,23 +941,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-dubbo-provider/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/04-dubbo-provider/src/main/resources/logback.xml" />
     <entry file="file://$PROJECT_DIR$/03-ssrm-jsp/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="43" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -991,7 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -999,9 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1009,9 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1351">
           <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1019,7 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,18 +984,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/src/main/java/com/alibaba/dao/StudentDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/04-dubbo-consumer/src/main/java/com/alibaba/dao/StudentDao.xml" />
     <entry file="file://$PROJECT_DIR$/04-dubbo-provider/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1680">
@@ -1069,7 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,9 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1094,7 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1118,7 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1126,7 +1069,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="26" column="68" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1134,10 +1076,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#245#246#0" expanded="false" />
-            <element signature="e#309#310#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1145,9 +1083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1155,9 +1090,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1165,9 +1097,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="473">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1175,9 +1104,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1185,9 +1111,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1195,27 +1118,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding>
-            <marker date="1591944836103" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1591944836103" expanded="true" signature="258:265" ph="{}" />
-            <marker date="1591944836103" expanded="true" signature="412:419" ph="{}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06-servlet3/src/main/java/com/alibaba/filter/IndexFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
+        <state relative-caret-position="280">
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06-servlet3/src/main/java/com/alibaba/servlet/IndexServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
+        <state relative-caret-position="280">
           <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1225,7 +1143,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06-servlet3/src/main/java/com/alibaba/IndexServletApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
+        <state relative-caret-position="385">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#349#350#0" expanded="true" />
@@ -1236,7 +1154,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06-servlet2/src/main/java/com/alibaba/filter/IndexFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
+        <state relative-caret-position="245">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
         </state>
@@ -1252,7 +1170,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06-servlet2/src/main/java/com/alibaba/config/FilterConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="595">
           <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1262,17 +1180,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07-thymeleaf/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        <state relative-caret-position="350">
+          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/model/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="490">
+          <caret line="17" column="46" lean-forward="false" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1289,11 +1209,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="370">
+          <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -10,5 +10,52 @@
     <div th:text="${welcome}">这里将要显示数据，但是文字不显示</div>
     <span th:text="${welcome}">这里将要显示数据，但是文字不显示</span>
 
+    <hr/>
+
+    <p th:text="*{student.name}">这里将要显示数据，但是文字不显示</p>
+    <p th:text="*{student.age}">这里将要显示数据，但是文字不显示</p>
+
+    <hr/>
+
+    <div th:object="${student}">
+        <p th:text="*{name}">这里将要显示数据，但是文字不显示</p>
+        <p th:text="*{age}">这里将要显示数据，但是文字不显示</p>
+    </div>
+
+    <hr/>
+    <p th:if="${gender} == 'male'">
+        男
+    </p>
+
+    <p th:if="${gender} != 'male'">
+        女
+    </p>
+
+    <hr/>
+
+    <div th:switch="${student.age/10}">
+        <p th:case="0">儿童</p>
+        <p th:case="1">少年</p>
+        <p th:case="2">青年</p>
+        <p th:case="3">中年</p>
+        <p th:case="4">中年</p>
+        <p th:case="5">中年</p>
+        <p th:case="*">老年</p>
+    </div>
+
+    <hr/>
+    <p th:each="stu : ${students}">
+        <span th:text="${stu.name}"></span>
+        <span th:text="${stu.age}"></span>
+    </p>
+
+    <hr/>
+    <div th:each="entry : ${map}">
+        <p th:text="${entryStat.count}"></p>
+        <p th:text="${entry.key}"></p>
+        <p th:text="${entry.value}"></p>
+        <p th:text="${entry.value.name}"></p>
+        <p th:text="${entry.value.age}"></p>
+    </div>
 </body>
 </html>
