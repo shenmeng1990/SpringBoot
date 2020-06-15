@@ -3,22 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1b640159-b315-4070-b354-7260c84c770b" name="Default Changelist" comment="springboot">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/02-customconfig/02-customconfig.iml" afterPath="$PROJECT_DIR$/02-customconfig/02-customconfig.iml" />
-      <change beforePath="$PROJECT_DIR$/02-multienv/02-multienv.iml" afterPath="$PROJECT_DIR$/02-multienv/02-multienv.iml" />
-      <change beforePath="$PROJECT_DIR$/02-multienv2/02-multienv2.iml" afterPath="$PROJECT_DIR$/02-multienv2/02-multienv2.iml" />
-      <change beforePath="$PROJECT_DIR$/03-ssrm-jsp/03-ssrm-jsp.iml" afterPath="$PROJECT_DIR$/03-ssrm-jsp/03-ssrm-jsp.iml" />
-      <change beforePath="$PROJECT_DIR$/04-dubbo-common/04-dubbo-common.iml" afterPath="$PROJECT_DIR$/04-dubbo-common/04-dubbo-common.iml" />
-      <change beforePath="$PROJECT_DIR$/04-dubbo-consumer/04-dubbo-consumer.iml" afterPath="$PROJECT_DIR$/04-dubbo-consumer/04-dubbo-consumer.iml" />
-      <change beforePath="$PROJECT_DIR$/04-dubbo-provider/04-dubbo-provider.iml" afterPath="$PROJECT_DIR$/04-dubbo-provider/04-dubbo-provider.iml" />
-      <change beforePath="$PROJECT_DIR$/05-interceptor/05-interceptor.iml" afterPath="$PROJECT_DIR$/05-interceptor/05-interceptor.iml" />
-      <change beforePath="$PROJECT_DIR$/06-servlet2/06-servlet2.iml" afterPath="$PROJECT_DIR$/06-servlet2/06-servlet2.iml" />
-      <change beforePath="$PROJECT_DIR$/06-servlet3/06-servlet3.iml" afterPath="$PROJECT_DIR$/06-servlet3/06-servlet3.iml" />
-      <change beforePath="$PROJECT_DIR$/07-thymeleaf/07-thymeleaf.iml" afterPath="$PROJECT_DIR$/07-thymeleaf/07-thymeleaf.iml" />
-      <change beforePath="$PROJECT_DIR$/07-thymeleaf/pom.xml" afterPath="$PROJECT_DIR$/07-thymeleaf/pom.xml" />
       <change beforePath="$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java" afterPath="$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java" />
       <change beforePath="$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html" afterPath="$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html" />
-      <change beforePath="$PROJECT_DIR$/spring01/spring01.iml" afterPath="$PROJECT_DIR$/spring01/spring01.iml" />
-      <change beforePath="$PROJECT_DIR$/spring02/spring02.iml" afterPath="$PROJECT_DIR$/spring02/spring02.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/spring01/target/" />
     <ignored path="$PROJECT_DIR$/spring02/target/" />
@@ -121,8 +107,8 @@
       <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+            <state relative-caret-position="440">
+              <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -146,8 +132,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+            <state relative-caret-position="188">
+              <caret line="76" column="23" lean-forward="false" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -262,8 +248,8 @@
         <option value="$PROJECT_DIR$/06-servlet2/src/main/java/com/alibaba/config/FilterConfig.java" />
         <option value="$PROJECT_DIR$/07-thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/model/Student.java" />
-        <option value="$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java" />
       </list>
     </option>
   </component>
@@ -756,7 +742,7 @@
       <workItem from="1591946775358" duration="308000" />
       <workItem from="1591947131646" duration="8809000" />
       <workItem from="1592099664433" duration="22656000" />
-      <workItem from="1592190431960" duration="3852000" />
+      <workItem from="1592190431960" duration="6598000" />
     </task>
     <task id="LOCAL-00001" summary="springboot">
       <created>1591792343753</created>
@@ -788,7 +774,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51523000" />
+    <option name="totallyTimeSpent" value="54269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -806,7 +792,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5238678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10526316" sideWeight="0.49784017" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2117503" sideWeight="0.49784017" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24568035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -816,7 +802,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21787025" sideWeight="0.49784017" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631579" sideWeight="0.49784017" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Maven" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1209,8 +1195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/java/com/alibaba/controller/IndexController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        <state relative-caret-position="440">
+          <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1219,8 +1205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07-thymeleaf/src/main/resources/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        <state relative-caret-position="188">
+          <caret line="76" column="23" lean-forward="false" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="23" />
           <folding />
         </state>
       </provider>

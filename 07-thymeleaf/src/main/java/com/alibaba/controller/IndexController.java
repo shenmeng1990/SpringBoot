@@ -32,6 +32,8 @@ public class IndexController {
         map.put("stu2",new Student("郑八",31));
         map.put("stu3",new Student("吴九",32));
         model.addAttribute("map",map);
+        model.addAttribute("elementId","reddiv");
+        model.addAttribute("bgColor","red");
         return "index";
     }
 }
