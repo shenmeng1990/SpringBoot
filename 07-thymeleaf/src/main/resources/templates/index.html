@@ -64,9 +64,9 @@
         姓名是：[[${student.name}]]
     </p>
     <hr>
-    <script th:inline="javascript" type="text/javascript">
+   <!-- <script th:inline="javascript" type="text/javascript">
         alert([[${student.name}]]);
-    </script>
+    </script>-->
 
     <hr>
     <div id="reddiv">
@@ -80,5 +80,29 @@
             background: [[${bgColor}]];
         }
     </style>
+    <hr>
+    Thymeleaf 包含四中字面常量 文本、数字、布尔和null
+    <div>
+        我爱你：<span th:text="'中国'"></span>
+    </div>
+    <div>
+        3+5 = <span th:text="3+5"></span>
+    </div>
+    <div>
+        <span th:if="${isClose}==false">欢迎光临</span>
+        <span th:if="${isClose==false}">欢迎光临2</span>
+    </div>
+    <div>
+        关于null值需要注意：<br>
+        1）若对象未定义，则其值为null<br>
+        2）若对象定义了，但其值被指定为null，则值为null<br>
+        3）若集合已经被定义（不为null），但长度为0，此时的集合不为null<br>
+        school:<span th:if="${school}==null">对象值为null</span><br>
+        cities:<span th:if="${cities}!=null">集合不为空</span><br>
+        country:<span th:if="${country}==null">对象未定义</span>
+    </div>
+
+    <hr>
+    <div th:text="|我的姓名是：${student.name}|"></div>
 </body>
 </html>

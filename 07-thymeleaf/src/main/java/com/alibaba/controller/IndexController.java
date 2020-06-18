@@ -34,6 +34,11 @@ public class IndexController {
         model.addAttribute("map",map);
         model.addAttribute("elementId","reddiv");
         model.addAttribute("bgColor","red");
+        model.addAttribute("isClose",false);
+
+        model.addAttribute("school",null);
+        List<String> cities  = new ArrayList<>();
+        model.addAttribute("cities",cities);
         return "index";
     }
 }
