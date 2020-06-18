@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/06-servlet3/pom.xml" />
         <option value="$PROJECT_DIR$/06-servlet2/pom.xml" />
         <option value="$PROJECT_DIR$/07-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/08-thymeleaf-ssrm/pom.xml" />
       </list>
     </option>
   </component>
