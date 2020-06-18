@@ -5,10 +5,10 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
+import java.util.*;
 
 /**
  * @Author shenmeng
@@ -18,7 +18,7 @@ import java.util.Map;
 public class IndexController {
 
     @RequestMapping("/index")
-    public String index(Model model){
+    public String index(Model model, HttpServletRequest req,HttpSession session){
         model.addAttribute("welcome","welcome to thymeleaf");
         model.addAttribute("student",new Student("张三",20));
         model.addAttribute("gender","male");
@@ -39,6 +39,15 @@ public class IndexController {
         model.addAttribute("school",null);
         List<String> cities  = new ArrayList<>();
         model.addAttribute("cities",cities);
+
+        req.setAttribute("req","reqValue");
+        session.setAttribute("session","sessionValue");
+        session.getServletContext().setAttribute("app","appValue");
+
+        int [] nums = {1,2,3,4,5};
+        model.addAttribute("nums",nums);
+        model.addAttribute("today",new Date());
+        model.addAttribute("cardId","370831199001151517");
         return "index";
     }
 }
