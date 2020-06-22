@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/06-servlet2/06-servlet2.iml" filepath="$PROJECT_DIR$/06-servlet2/06-servlet2.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-servlet3/06-servlet3.iml" filepath="$PROJECT_DIR$/06-servlet3/06-servlet3.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-thymeleaf/07-thymeleaf.iml" filepath="$PROJECT_DIR$/07-thymeleaf/07-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-path/08-path.iml" filepath="$PROJECT_DIR$/08-path/08-path.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-thymeleaf-ssrm/08-thymeleaf-ssrm.iml" filepath="$PROJECT_DIR$/08-thymeleaf-ssrm/08-thymeleaf-ssrm.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring01/spring01.iml" filepath="$PROJECT_DIR$/spring01/spring01.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring02/spring02.iml" filepath="$PROJECT_DIR$/spring02/spring02.iml" />

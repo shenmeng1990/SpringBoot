@@ -18,7 +18,9 @@
         <module name="06-servlet2" />
         <module name="06-servlet3" />
         <module name="07-thymeleaf" />
+        <module name="08-path" />
         <module name="08-thymeleaf-ssrm" />
+        <module name="08-thymeleaf-ssrm (1)" />
         <module name="spring01" />
         <module name="spring02" />
       </profile>
@@ -36,7 +38,9 @@
       <module name="06-servlet2" target="1.8" />
       <module name="06-servlet3" target="1.8" />
       <module name="07-thymeleaf" target="1.8" />
+      <module name="08-path" target="1.8" />
       <module name="08-thymeleaf-ssrm" target="1.8" />
+      <module name="08-thymeleaf-ssrm (1)" target="1.8" />
       <module name="spring01" target="1.8" />
       <module name="spring02" target="1.8" />
     </bytecodeTargetLevel>
